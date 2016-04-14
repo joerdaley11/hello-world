@@ -1,2 +1,2 @@
 # hello-world
-My first github project, using the classic 'Hello World' coding project.
+This is my first github project, I am also using this in conjunction with Zapier!  Woohoo, I'm awesome!!
